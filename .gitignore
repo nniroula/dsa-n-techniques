@@ -1,0 +1,13 @@
+# Dependency directory
+folder/
+# Log files
+*.log
+
+# Bytecode Files
+Array.class
+ArrayImplementation.class
+
+
+
+# Log files
+*.log
