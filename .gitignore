@@ -7,7 +7,5 @@ folder/
 Array.class
 ArrayImplementation.class
 
-
-
-# Log files
-*.log
+# All bytecode files
+*.class
