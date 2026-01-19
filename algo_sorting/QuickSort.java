@@ -1,4 +1,4 @@
-package algo-sorting;
+package algo_sorting;
 
 public class QuickSort {
     
