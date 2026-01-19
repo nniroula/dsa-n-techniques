@@ -2,6 +2,10 @@ package algo_sorting;
 
 import java.util.Arrays;
 
+/*time complexity: O(n^2) b/c two for loops are used.
+space complexity: O(1) b/c no extra space is used.
+ */
+
 class BubbleSortImplementation {
     // method to implement bubble sort
     public int[] bubbleSort(int arr[]) {
